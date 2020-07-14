@@ -1,0 +1,108 @@
+Entre com o nome do arquivo:
+
+Exemplo1.txt
+
+Solução aleatória:
+
+  2  2  1  1  1  1  1  1  
+  2  2  1  1  1  1  1  1  
+  4  4  4  4  4  4  4  4  
+  5  5  3  3  6  6  6  6  
+  5  5  3  3  5  5  6  6  
+
+A peça de ID 4 está abaixo da peça de ID 1
+A peça de ID 4 está acima da peça de ID 5
+A peça de ID 4 está abaixo da peça de ID 2
+
+Digite o número da alternativa de interesse:
+1- Tentar novamente com o mesmo arquivo
+2- Tentar novamente com outro arquivo
+3- Sair
+
+1
+
+Solução aleatória:
+
+  2  2  6  3  6  3  6  6  
+  2  2  6  3  6  3  5  5  
+  1  1  1  1  1  1  5  5  
+  1  1  1  1  1  1  5  5  
+  4  4  4  4  4  4  4  4  
+
+A peça de ID 6 está a esquerda da peça de ID 3
+A peça de ID 1 está acima da peça de ID 4
+A peça de ID 3 está acima da peça de ID 1
+
+Digite o número da alternativa de interesse:
+1- Tentar novamente com o mesmo arquivo
+2- Tentar novamente com outro arquivo
+3- Sair
+
+1
+
+Solução aleatória:
+
+  4  4  4  4  4  4  4  4  
+  1  1  1  1  1  1  5  5  
+  1  1  1  1  1  1  5  5  
+  5  5  6  2  2  3  6  3  
+  6  6  6  2  2  3  6  3  
+
+A peça de ID 1 está acima da peça de ID 3
+A peça de ID 6 está a esquerda da peça de ID 2
+A peça de ID 3 está a direita da peça de ID 6
+
+Digite o número da alternativa de interesse:
+1- Tentar novamente com o mesmo arquivo
+2- Tentar novamente com outro arquivo
+3- Sair
+
+2
+
+Entre com o nome do arquivo:
+
+Exemplo3.txt
+
+Solução aleatória:
+
+  1  1  1  1  1  1  6  6  3  
+  1  1  1  1  1  1  5  5  3  
+  4  4  4  4  4  4  4  4  3  
+  8  8  8  8  2  2  5  5  3  
+  8  8  8  8  2  2  7  7  7  
+  8  8  8  8  5  5  7  7  7  
+  7  7  7  7  7  7  7  7  7  
+  7  7  7  7  7  7  7  7  7  
+
+A peça de ID 4 está abaixo da peça de ID 5
+A peça de ID 5 está acima da peça de ID 7
+A peça de ID 8 está acima da peça de ID 7
+
+Digite o número da alternativa de interesse:
+1- Tentar novamente com o mesmo arquivo
+2- Tentar novamente com outro arquivo
+3- Sair
+
+1
+
+Solução aleatória:
+
+  1  1  1  1  1  1  7  7  7  
+  1  1  1  1  1  1  7  7  7  
+  7  7  7  7  7  7  5  5  3  
+  7  7  7  7  7  7  5  5  3  
+  4  4  4  4  4  4  4  4  3  
+  8  8  8  8  7  7  7  6  3  
+  8  8  8  8  7  7  7  2  2  
+  8  8  8  8  6  5  5  2  2  
+
+A peça de ID 2 está a direita da peça de ID 5
+A peça de ID 7 está a esquerda da peça de ID 6
+A peça de ID 1 está acima da peça de ID 7
+
+Digite o número da alternativa de interesse:
+1- Tentar novamente com o mesmo arquivo
+2- Tentar novamente com outro arquivo
+3- Sair
+
+3

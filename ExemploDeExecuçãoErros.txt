@@ -1,0 +1,67 @@
+Entre com o nome do arquivo:
+
+lalala.txt
+
+Arquivo não encontrado!
+
+Entre com o nome do arquivo:
+
+Erro1.txt
+
+Entrada para as dimensões da matriz inválida!
+
+Entre com o nome do arquivo:
+
+Erro2.txt
+
+Entrada para as peças inválida!
+
+Entre com o nome do arquivo:
+
+Erro3.txt
+
+Entrada inválida!
+O conjunto de peças possui espaço maior que a matriz.
+
+Entre com o nome do arquivo:
+
+Erro4.txt
+
+Entrada inválida!
+A matriz possui espaço maior que conjunto de peças.
+
+Entre com o nome do arquivo:
+
+Erro5.txt
+
+Entrada inválida!
+Uma das peças possui dimensão inválida!
+
+Entre com o nome do arquivo:
+
+Erro6.txt
+
+Arquivo não encontrado!
+
+Entre com o nome do arquivo:
+
+Exemplo1.txt
+
+Solução aleatória:
+
+  2  2  1  1  1  1  1  1  
+  2  2  1  1  1  1  1  1  
+  4  4  4  4  4  4  4  4  
+  3  3  6  6  6  5  5  6  
+  3  3  6  5  5  6  5  5  
+
+A peça de ID 5 está a esquerda da peça de ID 6
+A peça de ID 4 está acima da peça de ID 6
+A peça de ID 4 está abaixo da peça de ID 1
+
+Digite o número da alternativa de interesse:
+1- Tentar novamente com o mesmo arquivo
+2- Tentar novamente com outro arquivo
+3- Sair
+
+3
