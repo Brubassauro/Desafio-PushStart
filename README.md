@@ -15,4 +15,4 @@ Os arquivos de entrada devem ter o formato .txt e deve-se entrar com as informa�
 
 Como exemplo existem os arquivos de entrada exemplos de 1 a 8 que podem ser usados para verificação.
 
-Como exemplos de saída do programa existem os arquivos ExemploDeExecução1.txt e ExemploDeExecução2.txt. O arquivo ExemploDeExecuçãoErros.txt monstra a saída do programa para alguns erros comuns de entrada.
+Como exemplos de saída do programa existem os arquivos ExemploDeExecução1.txt e ExemploDeExecução2.txt. O arquivo ExemploDeExecuçãoErros.txt mostra a saída do programa para alguns erros comuns de entrada.
