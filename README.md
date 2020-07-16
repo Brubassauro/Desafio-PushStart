@@ -9,7 +9,7 @@ Os arquivos de entrada devem ter o formato .txt e deve-se entrar com as informa�
 
 [Número de peças de ID 1] [Tamanho horizontal da peça]x[Tamanho vertical da peça]  
 [Número de peças de ID 2] [Tamanho horizontal da peça]x[Tamanho vertical da peça]  
-[Número de peças de ID 2] [Tamanho horizontal da peça]x[Tamanho vertical da peça]  
+[Número de peças de ID 3] [Tamanho horizontal da peça]x[Tamanho vertical da peça]  
 ...  
 [Número de peças de ID n] [Tamanho horizontal da peça]x[Tamanho vertical da peça]  
 
